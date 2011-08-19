@@ -1,0 +1,10 @@
+このSoftwareはMessengerのThrid Party Clientです。
+2006年頃に作成したもので、MSNP11までSupportしています。
+しかし現在(2011年8月)時点では、MSNP18が使用されており、
+MSNP11でLoginしようとしてもServerからDenyされる可能性があります。
+
+本プログラムは、Protocol部分がメインとなっていて、
+Protocolモジュールを流用すればWebサービスと連携
+出来るかもしれません。
+おまけとしてメモ帳ライクな"こっそりGUI"も同封しています。
+
