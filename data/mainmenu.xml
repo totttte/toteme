@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<!DOCTYPE mainmenu SYSTEM "menu.dtd">
+
+<mainmenu>
+ <menu>
+  <name>ファイル(F)</name>
+  <submenu method="signout">サインアウト</submenu>
+  <submenu method="changestatus">状態変更</submenu>
+  <submenu method="changename">名前変更</submenu>
+  <submenu method="changePSM">パーソナルメッセージ変更</submenu>
+  <separator />
+  <submenu method="closed">終了</submenu>
+ </menu>
+ <menu>
+  <name>編集(E)</name>
+  <submenu method="changeIcon" enabled="false">表示アイコンの変更</submenu>
+  <submenu method="instantmessage">インスタントメッセージの送信</submenu>
+  <separator />
+ </menu>
+ <menu>
+  <name>書式(O)</name>
+  <submenu method="toSimple">より画面をシンプルにする</submenu>
+  <submenu method="bunrui">メンバを一覧で表示する</submenu>
+ </menu>
+ <menu>
+  <name>表示(V)</name>
+  <submenu method="option" enabled="false">オプション</submenu>
+ </menu>
+ <menu>
+  <name>ヘルプ(H)</name>
+  <submenu method="version">バージョン情報</submenu>
+ </menu>
+</mainmenu>

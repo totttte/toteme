@@ -1,0 +1,20 @@
+#	メッセンジャーのサーバに最初に送るデータです。
+#	このsend.txtは	先頭に#がある行をコメントとして読み飛ばします。
+#	//で始まるものはそれぞれ内部で変換されていきます。
+#	//TrID	トランザクションID	サーバとの同期のための番号づけ
+#	//MailAddress	メールアドレスに変換されます
+#	//auth_pass		ログインするときの、チャレンジキーに変換されます
+#	//Wait トランザクションIDの同期が取れるまでwaitします
+#
+#		CVRの0x0411は日本を表す。
+VER //TrID MSNP12 CVR0
+CVR //TrID 0x0411 winnt 5.1 i386 JAVAMSGR 6.0.0602 MSMSGS //MailAddress
+USR //TrID TWN I //MailAddress
+//Wait
+VER //TrID MSNP12 CVR0
+CVR //TrID 0x0411 winnt 5.0 i386 JAVAMSGR 6.0.0602 MSMSGS //MailAddress
+USR //TrID TWN I //MailAddress
+//Wait
+USR //TrID TWN S //auth_pass
+//Wait
+SYN //TrID 0 0

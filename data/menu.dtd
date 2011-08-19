@@ -1,0 +1,7 @@
+<!ELEMENT mainmenu (menu*)>
+ <!ELEMENT menu (name,(submenu|separator|menu)*)>
+ <!ELEMENT name (#PCDATA)>
+ <!ELEMENT separator EMPTY>
+ <!ELEMENT submenu (#PCDATA)>
+   <!ATTLIST submenu method CDATA #REQUIRED>
+   <!ATTLIST submenu enabled CDATA #IMPLIED>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<!DOCTYPE mainmenu SYSTEM "menu.dtd">
+
+<mainmenu>
+ <menu>
+  <name>ファイル(F)</name>
+  <submenu method="save">会話ログを保存</submenu>
+  <separator />
+  <submenu method="closed">このウィンドウを閉じる</submenu>
+ </menu>
+ <menu>
+  <name>編集(E)</name>
+  <submenu method="invite">誰かを招待</submenu>
+  <separator />
+  <submenu method="myFont">自分のフォント</submenu>
+ </menu>
+ <menu>
+  <name>書式(O)</name>
+  <submenu method="chatFont">送信済みエリアを白黒/カラーに変更する</submenu>
+  <submenu method="toSimple">より画面をシンプルにする</submenu>
+ </menu>
+ <menu>
+  <name>表示(V)</name>
+  <submenu method="reflesh">チャットウィンドウをリフレッシュ</submenu>
+  <submenu method="option" enabled="false">オプション</submenu>
+ </menu>
+ <menu>
+  <name>ヘルプ(H)</name>
+  <submenu method="version">バージョン情報</submenu>
+ </menu>
+</mainmenu>
