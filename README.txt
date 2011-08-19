@@ -1,10 +1,10 @@
-‚±‚ÌSoftware‚ÍMessenger‚ÌThrid Party Client‚Å‚·B
-2006”N ‚Éì¬‚µ‚½‚à‚Ì‚ÅAMSNP11‚Ü‚ÅSupport‚µ‚Ä‚¢‚Ü‚·B
-‚µ‚©‚µŒ»Ý(2011”N8ŒŽ)Žž“_‚Å‚ÍAMSNP18‚ªŽg—p‚³‚ê‚Ä‚¨‚èA
-MSNP11‚ÅLogin‚µ‚æ‚¤‚Æ‚µ‚Ä‚àServer‚©‚çDeny‚³‚ê‚é‰Â”\«‚ª‚ ‚è‚Ü‚·B
+ã“ã®Softwareã¯Messengerã®Thrid Party Clientã§ã™ã€‚
+2006å¹´é ƒã«ä½œæˆã—ãŸã‚‚ã®ã§ã€MSNP11ã¾ã§Supportã—ã¦ã„ã¾ã™ã€‚
+ã—ã‹ã—ç¾åœ¨(2011å¹´8æœˆ)æ™‚ç‚¹ã§ã¯ã€MSNP18ãŒä½¿ç”¨ã•ã‚Œã¦ãŠã‚Šã€
+MSNP11ã§Loginã—ã‚ˆã†ã¨ã—ã¦ã‚‚Serverã‹ã‚‰Denyã•ã‚Œã‚‹å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ã€‚
 
-–{ƒvƒƒOƒ‰ƒ€‚ÍAProtocol•”•ª‚ªƒƒCƒ“‚Æ‚È‚Á‚Ä‚¢‚ÄA
-Protocolƒ‚ƒWƒ…[ƒ‹‚ð—¬—p‚·‚ê‚ÎWebƒT[ƒrƒX‚Æ˜AŒg
-o—ˆ‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB
-‚¨‚Ü‚¯‚Æ‚µ‚Äƒƒ‚’ ƒ‰ƒCƒN‚È"‚±‚Á‚»‚èGUI"‚à“¯••‚µ‚Ä‚¢‚Ü‚·B
+æœ¬ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã¯ã€Protocoléƒ¨åˆ†ãŒãƒ¡ã‚¤ãƒ³ã¨ãªã£ã¦ã„ã¦ã€
+Protocolãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã‚’æµç”¨ã™ã‚Œã°Webã‚µãƒ¼ãƒ“ã‚¹ã¨é€£æº
+å‡ºæ¥ã‚‹ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ã€‚
+ãŠã¾ã‘ã¨ã—ã¦ãƒ¡ãƒ¢å¸³ãƒ©ã‚¤ã‚¯ãª"ã“ã£ãã‚ŠGUI"ã‚‚åŒå°ã—ã¦ã„ã¾ã™ã€‚
 
