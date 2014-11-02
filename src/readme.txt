@@ -1,33 +1,33 @@
-���p�b�P�[�W�̐����ɂ��āB
+■パッケージの説明について。
 
-core		MSNP11�ł̃T�[�o�Ƃ̂��Ƃ��S���B
-simplegui	GUI�\���̂��߂̋@�\�������B
-credits		���������삵�Ă��Ȃ��N���X�B
-smallgui	�����g���Ă���GUI�B�g�������Ȃ��������ߌ��ݔj�����ꂽ�B
+core		MSNP11でのサーバとのやりとりを担当。
+simplegui	GUI表示のための機能を実装。
+credits		自分が製作していないクラス。
+smallgui	当初使われていたGUI。拡張性がなかったため現在破棄された。
 
 
-�����ӓ_
-�Esimplegui�́A���ナ�t�@�N�^�����O�ɂ���ă\�[�X�R�[�h���啝�ɕύX�����\�����傫���ł��B
-�@�܂��A�R�����g��@�\�ʂł܂��쐬���̂��̂��܂܂�Ă��܂��B
-�Ecredits�ɂ���"Msnp11chl.java"�����̂܂܃R���p�C�����Ďg�����Ƃ͂ł��܂���B�g�p����ۂ́A
-�@Msnp11chl.java���ɏ����Ă��邱�Ƃ��Q�Ƃ��ĉ������B
+■注意点
+・simpleguiは、今後リファクタリングによってソースコードが大幅に変更される可能性が大きいです。
+　また、コメントや機能面でまだ作成中のものも含まれています。
+・creditsにある"Msnp11chl.java"をそのままコンパイルして使うことはできません。使用する際は、
+　Msnp11chl.java内に書いてあることを参照して下さい。
 
-�����C�Z���X�ɂ���
-<core�p�b�P�[�W�ɂ���>
-1.���p���p�ȊO�ł�2���z�z�A���H���Ďg���Ă��������č\���܂���B�Ȃ��A���̍ہA
-�@�������Ȃ��Ă��ǂ��ł��B
-2.���p���p�̏ꍇ�̓��[���ŘA�����������B�����炪�����o������g���Ă��������č\���܂���B
-�@�A����͂��̃e�L�X�g�̉��̂ق��ɂ���܂��B
-3.���̃p�b�P�[�W�������Ńo�O�A�s������������Ă�����ӔC�͎����܂���B
-4.�Ȃ��A�g�p����ۂ�core�p�b�P�[�W�Ɋւ��Ă͂���(1.�`4.)�Ɠ������C�Z���X�ɂ��Ă��������B
-<credits�p�b�P�[�W�ɂ���>
-�E�e�N���X�AAPI�͂��ꂼ��̍�҂ɂ���܂��B�����̍�҂̕��j�ɏ]���Ă��������B
-<smallgui�p�b�P�[�W�ɂ���>
-�Ecore�p�b�P�[�W�̎g�����̃T���v���Ƃ��ă\�[�X�����J���܂������A�g�p�p�r�͂���ȊO�ɂȂ��Ǝv���܂��̂ŁA
-�@2���g�p����ꍇ�̓��[���Ŏg�p�p�r�Ȃǂ�Y���ĘA���������B
+■ライセンスについて
+<coreパッケージについて>
+1.商用利用以外では2次配布、加工して使っていただいて構いません。なお、その際、
+　許可を取らなくても良いです。
+2.商用利用の場合はメールで連絡を下さい。こちらが許可を出したら使っていただいて構いません。
+　連絡先はこのテキストの下のほうにあります。
+3.このパッケージが原因でバグ、不具合等が発生しても何ら責任は持ちません。
+4.なお、使用する際はcoreパッケージに関してはこれ(1.～4.)と同じライセンスにしてください。
+<creditsパッケージについて>
+・各クラス、APIはそれぞれの作者にあります。それらの作者の方針に従ってください。
+<smallguiパッケージについて>
+・coreパッケージの使い方のサンプルとしてソースを公開しましたが、使用用途はこれ以外にないと思われますので、
+　2次使用する場合はメールで使用用途などを添えて連絡下さい。
 
-���X�V����
- 06/09/17�@�\�[�X���J
+■更新履歴
+ 06/09/17　ソース公開
 
-���A����
-mlu_ulm_1@hotmail.com
+■連絡先
+mlu_ulm_1#hotmail.com
